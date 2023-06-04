@@ -1,0 +1,12 @@
+.destination-item {
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+}
+.title {
+  font-size: 10px;
+}
+.image {
+  height: 220px;
+  width: 220px;
+}
